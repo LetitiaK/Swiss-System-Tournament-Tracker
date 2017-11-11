@@ -29,5 +29,5 @@ The game tournament uses the Swiss system for pairing up players in each round, 
 ### Python IDLE (Python GUI)
 
 1. Open Python IDLE (it is automatically installed with the Python installation)
-2. Open the file torunament.py
+2. Open the file tournament.py
 3. Run the code by pressing F5
